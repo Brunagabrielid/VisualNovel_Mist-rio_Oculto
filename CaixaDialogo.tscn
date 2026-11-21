@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://c6s4kxm2bo4b8"]
+
+[node name="CaixaDialogo" type="Node2D" unique_id=915952807]
+
+[node name="CaixaTexto" type="Panel" parent="." unique_id=885130852]
+custom_minimum_size = Vector2(40, 500)
+offset_right = 1120.0
+offset_bottom = 180.0
+
+[node name="Nome" type="Panel" parent="." unique_id=1879658244]
+offset_right = 40.0
+offset_bottom = 40.0
